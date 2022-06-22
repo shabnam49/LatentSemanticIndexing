@@ -1,1 +1,1 @@
-# LatentSemanticdexing
+# LatentSemanticIndexing
